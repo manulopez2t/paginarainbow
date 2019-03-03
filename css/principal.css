@@ -1,0 +1,123 @@
+/* FUENTE PÁGINA */
+body{
+    font-family: 'Fjalla One', sans-serif;
+}
+
+
+/*        FORMULARIO         */
+.contacto{
+    background: #393F43;
+    color: white;
+}
+label {
+	font-size: 16px;
+	margin-bottom: 0px;
+	font-weight: bold;
+}
+
+input[type=text], input[type=tel], input[type=email] {
+	width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #393F43;
+    color: white;
+}
+
+textarea {
+    width: 100%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #393F43;
+    resize: none;
+    color: white;
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover {
+    background-color: #333;
+}
+
+/* SOBRE RAINBOW */
+#quees{
+    background-image: url(../img/Rainbow-Six-obliga-a-utilizar-la-autenticaci%C3%B3n-en-2-pasos-a-sus-usuarios.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;    
+}
+
+.quees img{
+    transition: all 0.5s ease;
+}
+/* AGENTES */
+#tituloagentes{
+    font-size: 30px;
+}
+.boton:hover{
+    background-color: rgba(255, 255, 255, 0);
+    color: #007BFF;
+}
+#agentes{
+    background-image: url(../img/agentes.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;    
+}
+.tarjetas{
+   background-color: black;
+    color: white
+}
+/* Mapas */
+#mapas{
+    color: white;
+    background-image: url(../img/mapas.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover; 
+}
+.contenidomapas{
+    padding: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+/* Temporadas */
+#temporadas{
+    background-image: url(../img/fondo.jpg); 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #000000;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+#temporadas p{
+    font-size: 20px;
+}
+.fondoagentes{
+    background-image: url(../img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
