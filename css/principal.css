@@ -121,3 +121,246 @@ input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover {
     background-attachment: fixed;
     background-size: cover;
 }
+/* Temporadas */
+#contenidotemporadas{
+    background-image: 
+    linear-gradient(
+      rgba(0, 0, 0, 0.7),
+      rgba(0, 0, 0, 0.7)
+    ),
+    url(../img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    color: white;
+}
+#contenidotemporadas p{
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+h2.titulo{
+    text-align: center;
+}
+.titulohielo{
+    color: #609dff;
+}
+
+.btn-hielo {
+  color: #000000;
+  background-color: #609dff;
+  border-color: #609dff;
+}
+
+.btn-hielo:hover {
+  color: #609dff;
+  background-color: rgba(0, 105, 217, 0);
+  border-color: #609dff;
+}
+.titulopolvo{
+    color: #D0A344;
+}
+
+.btn-polvo {
+  color: #000000;
+  background-color: #D0A344;
+  border-color: #D0A344;
+}
+
+.btn-polvo:hover {
+  color: #D0A344;
+  background-color: rgba(0, 105, 217, 0);
+  border-color: #D0A344;
+}
+.tituloskull{
+    color: #47893B;
+}
+
+.btn-skull {
+  color: #000000;
+  background-color: #47893B;
+  border-color: #47893B;
+}
+
+.btn-skull:hover {
+  color: #47893B;
+  background-color: rgba(0, 105, 217, 0);
+  border-color: #47893B;
+}
+.titulocrow{
+    color: #BD1E2C;
+}
+
+.btn-crow {
+  color: #000000;
+  background-color: #BD1E2C;
+  border-color: #BD1E2C;
+}
+
+.btn-crow:hover {
+  color: #BD1E2C;
+  background-color: rgba(0, 105, 217, 0);
+  border-color: #BD1E2C;
+}
+.titulovelvet{
+    color: #723093;
+}
+
+.btn-velvet {
+  color: #000000;
+  background-color: #723093;
+  border-color: #723093;
+}
+
+.btn-velvet:hover {
+  color: #723093;
+  background-color: rgba(0, 105, 217, 0);
+  border-color: #723093;
+}
+.titulohealth{
+    color: #4A74A9;
+}
+
+.btn-health {
+  color: #000000;
+  background-color: #4A74A9;
+  border-color: #4A74A9;
+}
+
+.btn-health:hover {
+  color: #4A74A9;
+  background-color: rgba(0, 105, 217, 0);
+  border-color: #4A74A9;
+}
+.tituloblood{
+    color: #CA361C;
+}
+
+.btn-blood {
+  color: #000000;
+  background-color: #CA361C;
+  border-color: #CA361C;
+}
+
+.btn-blood:hover {
+  color: #CA361C;
+  background-color: rgba(0, 105, 217, 0);
+  border-color: #CA361C;
+}
+.btn-ela {
+  color: #000000;
+  background-color: #47928C;
+  border-color: #47928C;
+}
+
+.btn-ela:hover {
+  color: #47928C;
+  background-color: rgba(0, 105, 217, 0);
+  border-color: #47928C;
+}
+.titulonoise{
+    color: #006543;
+}
+
+.btn-noise {
+  color: #000000;
+  background-color: #006543;
+  border-color: #006543;
+}
+
+.btn-noise:hover {
+  color: #006543;
+  background-color: rgba(0, 105, 217, 0);
+  border-color: #006543;
+}
+.titulochimera{
+    color: #FFC113;
+}
+
+.btn-chimera {
+  color: #000000;
+  background-color: #FFC113;
+  border-color: #FFC113;
+}
+
+.btn-chimera:hover {
+  color: #FFC113;
+  background-color: rgba(0, 105, 217, 0);
+  border-color: #FFC113;
+}
+.titulobellum{
+    color: #949F39;
+}
+
+.btn-bellum {
+  color: #000000;
+  background-color: #949F39;
+  border-color: #949F39;
+}
+
+.btn-bellum:hover {
+  color: #949F39;
+  background-color: rgba(0, 105, 217, 0);
+  border-color: #949F39;
+}
+.titulogrim{
+    color: #81A0C1;
+}
+
+.btn-grim {
+  color: #000000;
+  background-color: #81A0C1;
+  border-color: #81A0C1;
+}
+
+.btn-grim:hover {
+  color: #81A0C1;
+  background-color: rgba(0, 105, 217, 0);
+  border-color: #81A0C1;
+}
+.titulowind{
+    color: #AA854F;
+}
+
+.btn-wind {
+  color: #000000;
+  background-color: #AA854F;
+  border-color: #AA854F;
+}
+
+.btn-wind:hover {
+  color: #AA854F;
+  background-color: rgba(0, 105, 217, 0);
+  border-color: #AA854F;
+}
+.tituloburnt{
+    color: #D2005A;
+}
+
+.btn-burnt {
+  color: #000000;
+  background-color: #D2005A;
+  border-color: #D2005A;
+}
+
+.btn-burnt:hover {
+  color: #D2005A;
+  background-color: rgba(0, 105, 217, 0);
+  border-color: #D2005A;
+}
+.anos{
+    background-color: rgba(128, 128, 128, 0.6);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+footer{
+    padding-top: 10px;
+    background-color: #242424;
+    color: white;
+}
