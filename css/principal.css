@@ -4,7 +4,6 @@ body{
 }
 
 
-
 /*        FORMULARIO         */
 .contacto{
     background: #393F43;
@@ -63,9 +62,7 @@ input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover {
     background-size: cover;    
 }
 
-.quees img{
-    transition: all 0.5s ease;
-}
+
 /* AGENTES */
 #tituloagentes{
     font-size: 30px;
@@ -83,7 +80,7 @@ input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover {
 }
 .tarjetas{
    background-color: black;
-    color: white
+   color: white;
 }
 /* Mapas */
 #mapas{
@@ -113,7 +110,7 @@ input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover {
     padding-bottom: 100px;
 }
 #temporadas p{
-    font-size: 20px;
+    font-size: 2.5vh;
 }
 .fondoagentes{
     background-image: url(../img/fondo.jpg);
@@ -140,17 +137,15 @@ input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover {
     color: white;
 }
 #contenidotemporadas p{
-    font-size: 30px;
+    font-size: 3vh;
     text-align: center;
     padding-bottom: 30px;
 }
-h2.titulo{
-    text-align: center;
-}
+
+
 .titulohielo{
     color: #609dff;
 }
-
 .btn-hielo {
   color: #000000;
   background-color: #609dff;
@@ -360,8 +355,3 @@ h2.titulo{
     border-radius: 10px;
 }
 
-footer{
-    padding-top: 10px;
-    background-color: #242424;
-    color: white;
-}

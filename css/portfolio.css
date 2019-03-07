@@ -443,9 +443,9 @@ footer .menu {
   #copyrightfooter p {
     line-height: 34px; }
     #copyrightfooter p a {
-      color: #fff; }
+      color: #007bb5; }
       #copyrightfooter p a:hover {
-        color: #007bb5; }
+        color: #fff; }
 
 .social-icon .facebook:hover {
   background-color: #3b5998;
@@ -522,7 +522,7 @@ footer .menu {
   font-size: 14px;
   text-align: center;
   border-radius: 50px;
-  background-color: #FD6E74;
+  background-color: #007bb5;
   -webkit-transition: all 0.2s linear;
   -moz-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
